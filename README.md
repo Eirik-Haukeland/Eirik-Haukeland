@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eirik-Haukeland
-- 🌱 I’m currently learning front end web developmnet
+- 🌱 I’m currently learning front-end web developmnet
 - 📫 How to reach me eirik@haukeland.name
 
 <!---
