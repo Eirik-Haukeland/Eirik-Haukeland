@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eirik Berget Haukeland</h1>
 
 A Frontend studen at Noroff, living in Notodden, Norway
-you canreach me **eirik@haukeland.name**
+you can reach me **eirik@haukeland.name**
 
 <h2 align="center">Languages and tools I am familiar with</h2>
 <a display="block" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
