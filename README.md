@@ -4,7 +4,8 @@ A Frontend studen at Noroff, living in Notodden, Norway
 you canreach me **eirik@haukeland.name**
 
 <h2>Languages and tools I am familiar with</h2>
-<ul style="list-style: none;">
+<div id="user-content-toc">
+<ul>
   <li>
     <a display="block" href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -51,3 +52,4 @@ you canreach me **eirik@haukeland.name**
     </a>
   </li>
 </ul>
+</div>
