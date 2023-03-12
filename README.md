@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eirik Berget Haukeland</h1>
-<p>I am a Front-end studen at Noroff</p>
+<h1 align="center">Hi 👋 I'm Eirik Berget Haukeland</h1>
+<p>I am a Front-end student at Noroff</p>
 <p>Living in Notodden, Norway</p>
 <p>You can reach me <strong>eirik@haukeland.name</strong></p>
 
