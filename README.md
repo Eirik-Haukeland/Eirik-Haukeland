@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Eirik Berget Haukeland</h1>
-<p>I have studied Front-end web development at <a href="https://www.noroff.no/en/">Noroff</a>, and are currently workin in <a href="https://www.amedia.no/">amedia</a>a></a></p>
+<p>I have studied Front-end web development at <a href="https://www.noroff.no/en/">Noroff</a>, and are currently workin in <a href="https://www.amedia.no/">amedia</a></p>
 <p>Living in Notodden, Norway</p>
 <p>You can reach me <strong>eirik@haukeland.name</strong></p>
 
